@@ -39,7 +39,9 @@ Outside research and coding, I love **taking pictures**, and **cooking**.
 - High-dimensional data analysis  
 - Data visualization and exploratory data analysis  
 - Statistical computing  
-- Statistical modelling  
+- Statistical modelling
+- Computer vision
+- Machine Learning
 - R package development  
 - Reproducible research  
 - Teaching statistics, coding, and data visualization  
